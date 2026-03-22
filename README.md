@@ -3,7 +3,7 @@
 Full-Stack Developer building scalable web, real-time, and cloud applications  
 Focused on practical, production-grade solutions  
 
---
+
 
 #Tech Stack
 
@@ -14,7 +14,7 @@ Cloud & DevOps: AWS (EC2, S3) • Docker • CI/CD
 UI/UX: Figma  
 Currently Learning: Python • AI/ML  
 
--
+
 
 # Work & Projects
 
@@ -28,9 +28,8 @@ Currently Learning: Python • AI/ML
 
 # Links
 
-Portfolio: https://the-om-pawar.github.io/developer/  
+Portfolio: https://om-pawar.vercel.app/
 Projects: https://www.godigiweb.site/
 
----
 
 Building. Scaling. Learning.
